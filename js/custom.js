@@ -271,8 +271,8 @@
 		$('.date-countdown').simplyCountdown({
 	    year: 2020, // year
 	    month: 2, // month
-	    day: 04, // day
-	    hours: 5, // Default is 0 [0-23] integer
+	    day: 4, // day
+	    hours: 6, // Default is 0 [0-23] integer
       minutes: 0, // Default is 0 [0-59] integer
       seconds: 0, // Default is 0 [0-59] integer
 		});
