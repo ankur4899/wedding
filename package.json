@@ -12,5 +12,8 @@
     "gulp-sourcemaps": "latest",
     "gulp-autoprefixer": "latest",
     "gulp-clean-css": "latest"
+  },
+  "dependencies": {
+    "simplycountdown.js": "^1.5.0"
   }
 }
