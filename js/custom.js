@@ -272,7 +272,7 @@
 	    year: 2020, // year
 	    month: 2, // month
 	    day: 4, // day
-	    hours: 6, // Default is 0 [0-23] integer
+	    hours: 18, // Default is 0 [0-23] integer
       minutes: 0, // Default is 0 [0-59] integer
       seconds: 0, // Default is 0 [0-59] integer
 		});
@@ -283,7 +283,7 @@
 
 		$('.image-popup').magnificPopup({
 			type: 'image',
-			removalDelay: 300,
+			removalDelay: 200,
 			mainClass: 'mfp-with-zoom',
 			gallery:{
 				enabled:true
